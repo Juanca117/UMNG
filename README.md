@@ -1,2 +1,2 @@
 # UMNG
-Mi primer Repositorio uwu
+Mi primer Repositorio
